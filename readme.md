@@ -4,9 +4,10 @@ Izmir icindeki tenis kortlarini konuma gore listeleyen Python projesi.
 
 ## Kapsam – Mahalleler
 
-Bu projede ilk aşamada Izmir icinde iki ana bolge hedeflenmistir:
+Bu projede ilk aşamada Izmir icinde üç ana bolge hedeflenmistir:
 - Karsiyaka (Bostanli cevresi)
 - Bornova
+- Urla
 
 ## Manuel Olarak Dogrulanan Tenis Kortlari
 
