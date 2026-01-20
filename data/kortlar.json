@@ -1,0 +1,58 @@
+[
+  {
+    "bolge": "Karsiyaka / Bostanli",
+    "ilce": "Karsiyaka",
+    "mahalle": "Bostanli Mahallesi",
+    "kort_adi": "Bostanlıspor Gençlik Spor",
+    "lat": 38.4722631,
+    "lon": 27.0759476
+  },
+  {
+    "bolge": "Karsiyaka / Bostanli",
+    "ilce": "Karsiyaka",
+    "mahalle": "Mavisehir Mahallesi",
+    "kort_adi": "Karşıyaka Spor Kulübü",
+    "lat": 38.4718349,
+    "lon": 27.0603578
+  },
+  {
+    "bolge": "Karsiyaka / Bostanli",
+    "ilce": "Karsiyaka",
+    "mahalle": "Bostanlı Rekreasyon Alanı",
+    "kort_adi": "Bostanlı Rekreasyon Alanı (Kortlar)",
+    "lat": 38.4719112,
+    "lon": 27.0293506
+  },
+  {
+    "bolge": "Bornova",
+    "ilce": "Bornova",
+    "mahalle": "Erzene Mahallesi",
+    "kort_adi": "ES Tenis Kulübü",
+    "lat": 38.5100929,
+    "lon": 27.3191208
+  },
+  {
+    "bolge": "Bornova",
+    "ilce": "Bornova",
+    "mahalle": "Kazımdirik Mahallesi",
+    "kort_adi": "Bornova Tenis Kulübü",
+    "lat": 38.4523668,
+    "lon": 27.044414
+  },
+  {
+    "bolge": "Bornova",
+    "ilce": "Bornova",
+    "mahalle": "Mansuroğlu Mahallesi",
+    "kort_adi": "Arda Ergan Tenis Kulübü",
+    "lat": 38.452578,
+    "lon": 27.0440705
+  },
+  {
+    "bolge": "Urla",
+    "ilce": "Urla",
+    "mahalle": "Korutürk Mahallesi",
+    "kort_adi": "ETV Tenis Kulübü",
+    "lat": 38.3907316,
+    "lon": 26.8868596
+  }
+]
